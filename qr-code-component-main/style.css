@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: #fff;
+    font-family: normal;
+    font-weight: 400;
+    text-align: center;
+  
+
+}
+
+ 
+  
+.desktop{
+ background-color: hsl(212, 45%, 89%); 
+ margin:100px ;
+ padding: 5% 32%;
+ width: fit-content;
+}
+.outlook {
+  border:10px solid white;
+  margin: 0px;
+  padding: 10px ;
+  border-radius: 20px;
+  background-color: white;
+  width: 300px;
+}
+
+.attribution {
+     font-size: 11px;
+      text-align: center; 
+    }
+
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+      
+    
+  
+
+  
